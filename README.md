@@ -2,7 +2,7 @@
 
 ~~(yet)~~ another my.telegram.org scrapper inside Telegram.
 
-- can be found on [Telegram](https://telegram.dog/useTGXBot)
+- can be found on [Telegram](https://telegram.dog/NQ0BOT)
 
 ## installing
 
